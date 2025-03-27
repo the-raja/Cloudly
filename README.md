@@ -35,4 +35,4 @@ and many more, including the latest **React 19**, **Next.js 15** and **Appwrite*
 reusability
 
 
-[CHECK LIVE WEBSITE](https://cloudly-iota.vercel.app/)  
+[CHECK LIVE WEBSITE](https://cloudly-storage.vercel.app)  
